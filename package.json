@@ -1,0 +1,35 @@
+{
+  "name": "board-with-autoscroll",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.8.0",
+    "@atlaskit/pragmatic-drag-and-drop": "^0.23.0",
+    "@atlaskit/pragmatic-drag-and-drop-react-beautiful-dnd-autoscroll": "^0.6.0",
+    "tiny-invariant": "^1.2.0",
+    "@atlaskit/pragmatic-drag-and-drop-hitbox": "^0.11.0",
+    "@atlaskit/pragmatic-drag-and-drop-live-region": "0.5.3",
+    "@emotion/react": "^11.7.1",
+    "react-dom": "^16.8.0",
+    "@atlaskit/button": "^16.10.0",
+    "@atlaskit/dropdown-menu": "11.14.0",
+    "@atlaskit/heading": "^1.2.0",
+    "@atlaskit/icon": "^21.11.0",
+    "@atlaskit/motion": "1.4.5",
+    "@atlaskit/pragmatic-drag-and-drop-react-indicator": "^0.16.0",
+    "@atlaskit/tokens": "^1.25.0",
+    "@atlaskit/avatar": "^21.3.0",
+    "@atlaskit/primitives": "^1.6.0",
+    "@atlaskit/pragmatic-drag-and-drop-docs": "0.6.0",
+    "@atlaskit/css-reset": "latest",
+    "styled-components": "3.2.6",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
